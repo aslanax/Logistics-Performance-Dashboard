@@ -59,7 +59,3 @@ This repository presents a professional **logistics performance dashboard** buil
 * Static Export to PDF for sharing and presentation
 * DAX for KPIs and metrics calculations
 
----
-
-
-هل ترغب أن أتابع بصياغة مشابهة للمشروعات الأخرى أيضًا؟
